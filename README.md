@@ -28,7 +28,7 @@ The results will be interpreted as relative provision indicators rather than pre
 - ONS postcode-to-MSOA lookup data
 - ONS MSOA population estimates
 - ONS MSOA boundary data
-- NaPTAN transport access points, if feasible
+- NaPTAN transport access points
 
 ## Planned tools
 
