@@ -219,4 +219,5 @@ __marimo__/
 
 # Project datasets
 data/raw/*.csv
+data/raw/*.json
 data/interim/*.csv
