@@ -218,10 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Project datasets
-data/**/*.csv
-data/**/*.json
-data/**/*.jsonl
-data/**/*.xlsx
+data/
 
 # Trained model files
 models/*.joblib
