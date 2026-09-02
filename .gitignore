@@ -220,5 +220,5 @@ __marimo__/
 # Project datasets
 data/
 
-# Trained model files
+# Trained binary model files
 models/*.joblib
