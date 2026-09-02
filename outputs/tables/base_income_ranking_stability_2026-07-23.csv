@@ -1,0 +1,4 @@
+﻿Definition,Base and income rank correlation,Base-model top-decile MSOAs,Income-model top-decile MSOAs,Shared top-decile MSOAs,Top-decile overlap (%),Mean percentile change
+Core only,0.9840780110754256,101,101,78,77.22772277227723,3.553870303305565
+Core and café,0.9606213002460846,101,101,69,68.31683168316832,5.820893143852016
+All provision included,0.9692536761526465,101,101,92,91.0891089108911,5.067808494786873

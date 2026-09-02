@@ -1,0 +1,13 @@
+﻿Definition,Model,Baseline,Rank correlation,Model top-decile MSOAs,Baseline top-decile MSOAs,Shared top-decile MSOAs,Top-decile overlap (%)
+Core only,Population and transport model,Population baseline,0.8412050563039384,101,101,35,34.65346534653465
+Core only,Population and transport model,Area-density baseline,0.8682445301293923,101,101,49,48.51485148514851
+Core only,Income-extended model,Population baseline,0.8347978721486897,101,101,33,32.67326732673268
+Core only,Income-extended model,Area-density baseline,0.8488776254998546,101,101,45,44.554455445544555
+Core and café,Population and transport model,Population baseline,0.8860717140657007,101,100,34,33.663366336633665
+Core and café,Population and transport model,Area-density baseline,0.8530159119125412,101,101,39,38.613861386138616
+Core and café,Income-extended model,Population baseline,0.8485947180653938,101,100,32,31.683168316831683
+Core and café,Income-extended model,Area-density baseline,0.8143651323035325,101,101,35,34.65346534653465
+All provision included,Population and transport model,Population baseline,0.9095458376282177,101,101,50,49.504950495049506
+All provision included,Population and transport model,Area-density baseline,0.8638340415760861,101,101,28,27.722772277227726
+All provision included,Income-extended model,Population baseline,0.8811320979666711,101,101,50,49.504950495049506
+All provision included,Income-extended model,Area-density baseline,0.834522919722411,101,101,28,27.722772277227726

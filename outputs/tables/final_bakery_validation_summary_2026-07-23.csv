@@ -1,0 +1,4 @@
+﻿FinalClass,Reviewed,Exact_correct,Inclusion_correct,Exact agreement (%),Inclusion agreement (%)
+BAKERY_CAFE,20,11,16,55.00000000000001,80.0
+CORE_BAKERY,20,15,17,75.0,85.0
+GROCER_BAKERY,20,7,9,35.0,45.0
