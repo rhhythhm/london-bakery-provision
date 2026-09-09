@@ -54,7 +54,7 @@ Relative under-provision is interpreted as model-based shortfall within the stud
 | `12_msoa_to_bakeries_lookup.ipynb`         | Assigns final bakery establishments to MSOAs and counts overall establishment counts.                            |
 | `13_ons_msoa_population.ipynb`             | Prepares ONS Mid-2024 MSOA population estimates for Greater London MSOAs.                                        |
 | `14_naptan_transport_nodes.ipynb`          | Assigns and aggregates active NaPTAN transport stop points within respective London MSOAs.                       |
-| `15_msoa_modelling_dataset.ipynb`          | Constructs bakery counts under three defintions and combines with MSOA-level characteristics.                    |
+| `15_msoa_modelling_dataset.ipynb`          | Constructs bakery counts under three definitions and combines with MSOA-level characteristics.                    |
 | `16_msoa_bakery_analysis.ipynb`            | Performs exploratory and descriptive analysis of bakery provision.                                               |
 | `17_msoa_bakery_count_model.ipynb`         | Fits and compares performance of Poisson and Negative Binomial bakery-count model.                               |
 | `17b_msoa_bakery_count_model_income.ipynb` | Extends count models with MSOA-level average household incomes.                                                  |
@@ -180,4 +180,4 @@ Processed datasets used by later stages of the pipeline are stored within the re
 
 The analysis used open-source dated snapshots of datasets so that the results reported remain fixed to the study dataset. External APIs, source datasets and Google Search results can change over time, so a complete rerun at a later date is likely to not reproduce the original acquisition or the verification results.
 
-Processed datasets, automated-verifiction datasets, completed manual-review decisions, and final analytical outputs are retained in the repository for completed analysis to be inspected without repeating these stages. Random sampling and model-validation stages use fixed random seeds where applicable to improve reproducibility. API keys and other credentials are, however, not stored in the repository.
+Processed datasets, automated-verification datasets, completed manual-review decisions, and final analytical outputs are retained in the repository for completed analysis to be inspected without repeating these stages. Random sampling and model-validation stages use fixed random seeds where applicable to improve reproducibility. API keys and other credentials are, however, not stored in the repository.
