@@ -1,0 +1,4 @@
+﻿Definition,Role,Observed establishments,Expected establishments,MSOAs below expectation,Median raw shortfall,Highest standardised shortfall
+Core only,Strict sensitivity,925,907.0162576580017,625,0.4550225489228962,0.8140213214314153
+Core and café,Primary definition,2928,2800.9449068026315,652,0.7629291044481317,0.9025510809403914
+All provision included,Broad sensitivity,5178,5079.506302304242,624,0.9970120375740532,1.1417265463682729

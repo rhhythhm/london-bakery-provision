@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project datasets
+data/
+
+# Trained binary model files
+models/*.joblib

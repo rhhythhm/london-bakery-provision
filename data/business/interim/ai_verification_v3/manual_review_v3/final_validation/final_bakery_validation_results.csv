@@ -1,0 +1,151 @@
+﻿SampleNumber,FHRSID,BusinessName,Address,PostCode,LocalAuthorityName,ManualClass,EvidenceURL,ReviewNotes,FinalClass,ClassificationSource,ExactClassCorrect,BakeryInclusionCorrect
+1,640247,The Girl Of Sandwiches,"11 Albert Road, North Woolwich, London",E16 2DW,Newham,BAKERY_CAFE,https://share.google/ihFePH4cJcxpHrgPB,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+2,519156,JP Newsagents,"Northwood Hills Post Office 71 Ryefield Parade, Joel Street, Northwood",HA6 1LW,Hillingdon,NON_BAKERY,https://share.google/mqSbKIRO1QVJb0VN9,Just a newsagents,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+3,1877806,Buns from home,"16 Hildreth Street, London, Wandsworth",SW12 9RQ,Wandsworth,CORE_BAKERY,,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+4,1688439,Greggs Plc,"361 Bethnal Green Road, London",E2 0AN,Tower Hamlets,CORE_BAKERY,https://share.google/ZZzPRfrRhfSv9Us6F,,GROCER_BAKERY,LOCATION_VERIFICATION,False,True
+5,417267,Sainsbury's,"Sainsbury's, 325-331 Essex Road, London",N1 2YG,Islington,NON_BAKERY,https://share.google/JGImrb88VXVgwA5zE,,GROCER_BAKERY,SUPERMARKET_SUPPLEMENT,False,False
+6,421624,Bakery Naslada.,"60 Main Avenue, ENFIELD",EN1 1DH,Enfield,GROCER_BAKERY,https://share.google/jUh5FG5jbvELm3ML4,Alongside baked goods this place sells other fresh produce and bulgarian food,CORE_BAKERY,VERIFIED_CANDIDATE,False,True
+7,1919149,Brush & Lever,"Unit 1, 61 Princelet Street, London",E1 5LP,Tower Hamlets,BAKERY_CAFE,https://share.google/f9o9Ggaw0k3lh5avs,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+8,345868,Greggs,"702C Fulham Road, London",SW6 5SA,Hammersmith and Fulham,CORE_BAKERY,,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+9,1575242,Pret A Manger,"21 King Street, Twickenham, Richmond Upon Thames",TW1 3SF,Richmond-Upon-Thames,NON_BAKERY,https://share.google/4x6MNvssPBkndGgMI,Permanently closed,BAKERY_CAFE,LOCATION_VERIFICATION,False,False
+10,1338948,Gail's Bakery,"22-24 BUCKINGHAM PALACE ROAD, LONDON",SW1W 0QP,Westminster,CORE_BAKERY,https://share.google/zFcZxiyz2n5vH0zJL,,BAKERY_CAFE,LOCATION_VERIFICATION,False,True
+11,49557,Beigel Bake,"Beigel Bake, 159 Brick Lane, London",E1 6SB,Tower Hamlets,CORE_BAKERY,https://share.google/TchmQSJonjVzIgoMd,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+12,877567,Mleczko Delikatesy,"68 High Street, Croydon",CR0 1NA,Croydon,GROCER_BAKERY,https://share.google/ZKyzOwhQqQYp7JM82,,GROCER_BAKERY,LOCATION_VERIFICATION,True,True
+13,1727217,The gluten free bakery,"Unit 6 Print Village, 58, Chadwick Road, London",SE15 4PU,Southwark,UNCLEAR,https://share.google/NBpa98qfqxfPu473z,Location is unclear as it shows a private address,CORE_BAKERY,VERIFIED_CANDIDATE,False,False
+14,607081,Wenzel's,"34 The Broadway, Stanmore",HA7 4DU,Harrow,CORE_BAKERY,https://share.google/bRfLb9bYo7XbB3bfD,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+15,1517878,Lidl,"Unit B, Hospital Road, Hounslow",TW3 3HY,Hounslow,GROCER_BAKERY,https://share.google/LcM5Gz9ny1u2asCqd,,GROCER_BAKERY,LOCATION_VERIFICATION,True,True
+16,1855165,Ta'mini Lebanese Bakery,"15 Kensington Church Street, LONDON",W8 4LF,Kensington and Chelsea,CORE_BAKERY,https://share.google/SYQc7BkmI8piilNNl,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+17,898552,Jolleys,"206 Cheam Common Road, Worcester Park",KT4 8QJ,Sutton,NON_BAKERY,https://share.google/9BkL2rwpuXeD2OGJV,,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+18,1914082,Bread \& Truffle,"9 Bow Lane, London",EC4M 9EB,City of London Corporation,BAKERY_CAFE,https://share.google/QI6zmUf7crYkd9JOY,,BAKERY_CAFE,LOCATION_VERIFICATION,True,True
+19,444237,Mr Bunns Bakery,"69 Chadwell Heath Lane, Chadwell Heath",RM6 4NP,Redbridge,CORE_BAKERY,https://share.google/5X1L0br6ttHSR1FYs,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+20,1599250,Sainsbury's Supermarket Ltd,"Sainsbury's, Ground Floor Unit, 33-35 Lewisham Way, London",SE14 6PP,Lewisham,UNCLEAR,https://share.google/00O8Ec08OidHROxX2,Sainsbury local that does not have it's own instore bakery,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+21,1718310,Pinocchio (Favorite Cakes Ltd),"Left, 482 Neasden Lane North, London",NW10 0DG,Brent,CORE_BAKERY,https://share.google/p8GzZMYF1ekCcp1TY,,BAKERY_CAFE,VERIFIED_CANDIDATE,False,True
+22,1775846,Sainsburys,Henshaw Parade  The Hyde London,NW9 6GH,Barnet,GROCER_BAKERY,https://share.google/qbLrSp0ecTBfBIrQx,,GROCER_BAKERY,LOCATION_VERIFICATION,True,True
+23,1840500,Brekky,"147 Church Road, Barnes, Richmond Upon Thames",SW13 9HR,Richmond-Upon-Thames,BAKERY_CAFE,https://share.google/LISJUxflvacalCjBF,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+24,1018670,Wenzels The Bakers Ltd,"60 Uxbridge Road, London",W12 8LP,Hammersmith and Fulham,CORE_BAKERY,https://share.google/RaQxgdqqwNHydTbA5,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+25,1522857,HME Provisions Hackney Ltd,"HME Provisions Hackney Ltd, 308 Hackney Road, London",E2 7SJ,Tower Hamlets,BAKERY_CAFE,https://share.google/Urb23aoptwG5i3wAk,,GROCER_BAKERY,VERIFIED_CANDIDATE,False,True
+26,449251,Greggs the bakers,"18-20, Denmark Hill, London",SE5 8RZ,Southwark,CORE_BAKERY,https://share.google/YPCfiagBR5mAcP9vR,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+27,1071940,Sweet Carolina Kitchen & Bar,"2 Knight's Hill, London",SE27 0HY,Lambeth,BAKERY_CAFE,https://share.google/1dVpcCTMZtuJ3WdI9,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+28,1383349,Pachara,"184 Stroud Green Road, Hornsey, London",N4 3RN,Haringey,NON_BAKERY,https://share.google/Li5g94rINTD95CTLO,No evidence of baked goods at this location,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+29,976278,Lanka French Patisserie,9 Goldhurst Terrace,NW6 3HX,Camden,CORE_BAKERY,https://share.google/FFvKZWeyXB3bzEKcx,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+30,1835240,Moon Speciality Coffee,"14 KENNINGHALL ROAD, Hackney, London",E5 8BY,Hackney,BAKERY_CAFE,https://share.google/wYod0pDxXfzEQaFHw,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+31,695320,Greggs PLC,"7 Wilton Road, Abbey Wood, Greenwich",SE2 9RH,Greenwich,CORE_BAKERY,https://share.google/f0DPbtP6BPHTcaUn2,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+32,1832036,Sourdough Sophia,"3 Highgate West Hill, London",N6 6JS,Camden,CORE_BAKERY,https://share.google/9kVZglEG565LSfb8O,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+33,469850,Climpson & Sons,"67 BROADWAY MARKET, Hackney, London",E8 4PH,Hackney,BAKERY_CAFE,https://share.google/nwNHf8sJJ8xpsR54b,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+34,1199710,Sable d'Or,"30 England's Lane, London",NW3 4UE,Camden,BAKERY_CAFE,https://share.google/0eIGBFh6TaD2QBjnD,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+35,1294812,Philippe Conticini UK Ltd,"Unit 1 26 Ground Floor Camden (Buck Street) Market, 192-198 Camden High Street, London",NW1 8QP,Camden,CORE_BAKERY,https://share.google/UWT48f1U8zynSU9m4,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+36,548601,Exmouth Coffee Co.,"83 Whitechapel High Street, London",E1 7QX,Tower Hamlets,BAKERY_CAFE,https://share.google/NrdtPv5bhyAzQthHr,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+37,334002,Nouvelle Delicatessen,"69 Abingdon Road, LONDON",W8 6AW,Kensington and Chelsea,BAKERY_CAFE,https://share.google/30aFrMmMBkvPytKYH,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+38,1863902,Tesco Stores Limited,"117-121 VICTORIA STREET, LONDON, United Kingdom",SW1E 6RA,Westminster,NON_BAKERY,https://share.google/q2tqaEmGriUXYAuSm,,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+39,570935,Village Bakers,"28 High Street, Carshalton",SM5 3AG,Sutton,CORE_BAKERY,https://share.google/VGNecAHhvMwl4vRlH,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+40,1026636,Pierre Herme Paris,"CONCESSION SELFRIDGES 400 OXFORD STREET, LONDON",W1A 1AB,Westminster,CORE_BAKERY,https://share.google/sSh99XQICTsVqZ2Nh,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+41,1629204,Sainsbury's Local,"39 Nightingale Lane, London, Wandsworth",SW12 8SY,Wandsworth,NON_BAKERY,https://share.google/EYqdXEustNKYEdD8e,,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+42,810707,Christophers bakery and delicatessen limited,"145, Half Moon Lane, London",SE24 9JY,Southwark,CORE_BAKERY,https://share.google/lZMCOvz7ydeIH2Ych,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+43,1884572,Alpha Bakery,1360 High Road London,N20 9HJ,Barnet,BAKERY_CAFE,https://share.google/u3utID05GstHshZ9m,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+44,1588849,Piptree,"40 Upper Richmond Road, London, Wandsworth",SW15 2RX,Wandsworth,BAKERY_CAFE,https://share.google/Ck4rzoYHGoEWraZSS,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+45,1572445,Parisienne,"Ground Floor 225 Lavender Hill, London, Wandsworth",SW11 1JR,Wandsworth,NON_BAKERY,https://share.google/0LwiyGba9Z4u1KbwC,,BAKERY_CAFE,VERIFIED_CANDIDATE,False,False
+46,334658,John Forrest Bakery,"401 King's Road, LONDON",SW10 0LR,Kensington and Chelsea,CORE_BAKERY,https://share.google/W78wyivrqxZ2SoMfX,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+47,1767018,Nisa Local,"53 Stratford Road, Plaistow, London",E13 0NF,Newham,NON_BAKERY,,Insufficient evidence of bakery provision,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+48,1572544,Greggs,"41 Mitcham Road, London, Wandsworth",SW17 9PB,Wandsworth,CORE_BAKERY,,,BAKERY_CAFE,LOCATION_VERIFICATION,False,True
+49,1564254,Wenzel’s the Bakers,"98 High Road, Ilford",IG1 1DS,Redbridge,CORE_BAKERY,,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+50,917478,Uncle Johns Bakery Ltd,"76 West Green Road, Tottenham, London",N15 5NS,Haringey,CORE_BAKERY,https://share.google/XOVBML2Da6Pxw7btb,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+51,1582890,Heriots Patisserie,"Unit 25A, Broadway Shopping Centre, Hammersmith Broadway, London",W6 9YD,Hammersmith and Fulham,CORE_BAKERY,https://share.google/xvFnhfS36msK9ATGf,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+52,1786368,Cloud 7 brunch,"Workshop 40a, Tottenham Lane, Hornsey, London",N8 7EA,Haringey,BAKERY_CAFE,https://share.google/R0anXKTpV8ayxAt34,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+53,1438890,Ruttle & Rowe Coffee Co,"Ground Floor 19 Victoria Road, Walthamstow, London",E17 4JT,Waltham Forest,BAKERY_CAFE,https://share.google/JTUmNFS5hQs4sQAPi,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+54,1917851,Gail's Bakery - Westfield Stratford,"157 The Street, Westfield Stratford City, Montfichet Road, Stratford",E20 1EN,Newham,CORE_BAKERY,,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+55,801400,Sainsbury's,Heath Parade  Grahame Park Way London,NW9 5ZN,Barnet,UNCLEAR,https://share.google/5oaGBV2xseKUWjmXU,Unclear bakery provision as it is a sainsbury's local,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+56,756585,Greggs Bakery,25 Ballards Lane London,N3 1XP,Barnet,CORE_BAKERY,,,BAKERY_CAFE,LOCATION_VERIFICATION,False,True
+57,424773,Pret A Manger Unit 1,"Euston Tower, 286 Euston Road, London",NW1 3BY,Camden,BAKERY_CAFE,https://share.google/U4aZCdnLRe0e6HvcI,,BAKERY_CAFE,LOCATION_VERIFICATION,True,True
+58,1285423,Hackney Essentials,"Hackney Essentials, 146 Columbia Road, London",E2 7RG,Tower Hamlets,NON_BAKERY,https://share.google/6oQikh52v4eWaIvQi,,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+59,530871,Co-Op St Katherines,"Shanraj Limited, 77-101 The Highway, London",E1W 2BX,Tower Hamlets,UNCLEAR,https://share.google/Vo28qUSenVS9k1vA1,This is a convenience store attached to a petrol station,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+60,531976,Al Sham Market,"214-218 High Road, London",NW10 2NX,Brent,NON_BAKERY,https://share.google/WGlCIDMgFBhx1ESEn,Insufficient evidence of bakery provision,GROCER_BAKERY,SUPERMARKET_SUPPLEMENT,False,False
+61,1662481,Walnuts,"105 - 107 Main Road, Sidcup, Kent",DA14 6ND,Bexley,BAKERY_CAFE,https://share.google/ceCPQiiMduVI0WspE,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+62,1600121,Best One,"305-307 Brockley Road, London",SE4 2QZ,Lewisham,NON_BAKERY,https://share.google/yBOZPyyA9JRXW08iX,,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+63,1681496,Esso,"Eden Park Service Station Links Way, Beckenham",BR3 3DG,Bromley,NON_BAKERY,https://share.google/d0DOmToQFroD8CurT,,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+64,532212,Pooja Sweet & Savouries,"487 Kingsbury Road, London",NW9 9ED,Brent,NON_BAKERY,https://share.google/1pl8H1bp9720kFMgX,,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+65,1571935,Free Off Licence,"57 Latchmere Road, London, Wandsworth",SW11 2DS,Wandsworth,NON_BAKERY,https://share.google/8VYCqcXxLB6pPkdmN,No evidence of baked goods at this location,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+66,1530940,Greggs PLC,"Unit 35, Broadway Shopping Centre, Hammersmith Broadway, London",W6 9YD,Hammersmith and Fulham,CORE_BAKERY,https://share.google/e7BuYrej3ltYermUN,,BAKERY_CAFE,LOCATION_VERIFICATION,False,True
+67,357795,Greggs,"238 High Street, Orpington",BR6 0LS,Bromley,CORE_BAKERY,,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+68,1935982,Whole Foods Market,"GROUND FLOOR 55 VICTORIA STREET, LONDON",SW1H 0AF,Westminster,GROCER_BAKERY,https://share.google/mavA7pio8iQ4OQUig,,GROCER_BAKERY,SUPERMARKET_SUPPLEMENT,True,True
+69,1439758,Everfresh,"728 London Road, Thornton Heath",CR7 7HW,Croydon,NON_BAKERY,https://share.google/0roqJkwoPPyLolq11,,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+70,1021491,The Bakers Of Ealing,"27 New Broadway, Ealing",W5 5AW,Ealing,CORE_BAKERY,https://share.google/xIGnSjlRIOPBgxdYR,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+71,1688647,Pique,"171 Lavender Hill, London, Wandsworth",SW11 5TE,Wandsworth,BAKERY_CAFE,https://share.google/dAxqOEoEGfaWqiFVt,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+72,1599624,B&M Retail Ltd,"B&M, Unit 2 Bromley Retail Park, 124-138 Bromley Road, London",SE6 2QU,Lewisham,NON_BAKERY,https://share.google/x2v5jdAtcQLXlqiiX,B&M stores do not contain bakery supplies,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+73,72303,"Pret A Manger, Cabot Place","Cabot Place East, 15 Cabot Square, London",E14 4QS,Tower Hamlets,BAKERY_CAFE,,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+74,493156,Wenzel's,"250 Streatfield Road, Harrow",HA3 9BY,Harrow,CORE_BAKERY,https://share.google/YC04PmRLWaIi3A3mA,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+75,422880,Ambala Sweet Centre,"61 Turnpike Lane, Wood Green, London",N8 0EE,Haringey,CORE_BAKERY,https://share.google/EuhnpzBYSE6SDtEkk,Selling indian baked goods and sweets,GROCER_BAKERY,VERIFIED_CANDIDATE,False,True
+76,1717024,Granier,"GROUND FLOOR 5 CRAVEN ROAD, LONDON",W2 3BP,Westminster,CORE_BAKERY,https://share.google/aOPwujUpNDUvI5Ckm,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+77,1848533,Pret A Manger,"Unit A2, River Mill 2, Station Road, London",SE13 5FQ,Lewisham,BAKERY_CAFE,,,BAKERY_CAFE,LOCATION_VERIFICATION,True,True
+78,1501149,Buns From Home,"33 Royal Exchange, London",EC3V 3LP,City of London Corporation,CORE_BAKERY,https://share.google/95GKiD7xffnqeSOBv,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+79,626706,Wenzel's,"24 London Designer Outlet, Wembley Park Boulevard, Wembley",HA9 0TG,Brent,CORE_BAKERY,https://share.google/63KAz7x7unXs5oMz2,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+80,1524459,Deli By Dirty Crunch,"290 Lower Addiscombe Road, Croydon",CR0 7AE,Croydon,BAKERY_CAFE,https://share.google/LF7UMkQAfLIKOsz9x,,GROCER_BAKERY,VERIFIED_CANDIDATE,False,True
+81,1738952,Shell Little Waitrose Hornsey Pk Rd,"Petrol Filling Station Garage, 93-113 Park Road, Hornsey, London",N8 8JN,Haringey,NON_BAKERY,https://share.google/0aBm3gqIotl4jcCxj,,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+82,1865812,EARLY BEES COFFEE LTD,"EARLY BEES COFFEE LTD, Unit 2 Lexington Apartments, 40 City Road, London",EC1Y 2AN,Islington,BAKERY_CAFE,https://share.google/l6MT07cMatlo2ToxP,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+83,491058,Aldi Stores Ltd,"Aldi, Hospital Road, Hounslow",TW3 3HY,Hounslow,GROCER_BAKERY,https://share.google/YpqEJECQ1G5x9HeiD,,GROCER_BAKERY,LOCATION_VERIFICATION,True,True
+84,1844649,Greggs,"74 Aldgate High Street, London",EC3N 1BD,City of London Corporation,CORE_BAKERY,,,BAKERY_CAFE,LOCATION_VERIFICATION,False,True
+85,1621918,Cooks and Books,"Cooks and Books, 200 New North Road, London, N1 7BJ",N1 7BJ,Islington,BAKERY_CAFE,https://share.google/LjDAd8qkTExozQmYX,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+86,1292435,AM Cafe And Bakes,"154 Cherry Orchard Road, Croydon",CR0 6BB,Croydon,UNCLEAR,https://share.google/JOG2NPbS4qbudV08r,Seems like a cake-only boutique this would not pass into bakeries,BAKERY_CAFE,VERIFIED_CANDIDATE,False,False
+87,1545278,Pastada,"47 MOSCOW ROAD, LONDON",W2 4AH,Westminster,BAKERY_CAFE,https://share.google/0NiizEdp9hULi374q,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+88,1247499,Sainsbury's,"582 Fulham Road, London",SW6 5NT,Hammersmith and Fulham,NON_BAKERY,https://share.google/rXnbpnOFnblhF6q78,,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+89,1126603,Village Bakers,"18 Station Road, Belmont",SM2 6BH,Sutton,CORE_BAKERY,https://share.google/FfP5Bng7BTvs5itKQ,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+90,965293,Patisserie Valerie,"Unit 1 Euston Railway Station, Eversholt Street",NW1 2DU,Camden,NON_BAKERY,https://share.google/opPUxeDgtIFYeLVIK,Inactive,BAKERY_CAFE,VERIFIED_CANDIDATE,False,False
+91,877754,Paul,"61 Notting Hill Gate, LONDON",W11 3JS,Kensington and Chelsea,CORE_BAKERY,https://share.google/EkkNXGcd6gF8fDWWo,,BAKERY_CAFE,LOCATION_VERIFICATION,False,True
+92,1414731,Pret A Manger,"100 Liverpool Street, London",EC2M 2AT,City of London Corporation,BAKERY_CAFE,,,BAKERY_CAFE,LOCATION_VERIFICATION,True,True
+93,334286,Fait Maison,"50 Gloucester Road, LONDON",SW7 4QT,Kensington and Chelsea,BAKERY_CAFE,https://share.google/IIkO6LIv30yqJq1Ba,,CORE_BAKERY,LOCATION_VERIFICATION,False,True
+94,1928272,Grey Diamonds Bakery And Takeaway,"Ground Floor, 67 Atlantic Road, London",SW9 8PU,Lambeth,BAKERY_CAFE,https://share.google/R5vis6m0jhYjLOGbj,,CORE_BAKERY,VERIFIED_CANDIDATE,False,True
+95,425197,Natural Natural,"1 Goldhurst Terrace, London",NW6 3HX,Camden,UNCLEAR,https://share.google/FfMF11rpRwslELd4Q,Japanese supermarket with unclear bakery provision,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+96,1573207,Gail's Bakery Balham,"Ground Floor 1 Station Parade Balham High Road, London, Wandsworth",SW12 9AZ,Wandsworth,CORE_BAKERY,,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+97,413627,Poilane Bakeries Ltd,"46 ELIZABETH STREET, LONDON",SW1W 9PA,Westminster,CORE_BAKERY,https://share.google/DPQcVW4QAZnOnxtHl,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+98,1472173,Smart Portuguese Groceries,"764 Romford Road, Manor Park, London",E12 6BU,Newham,GROCER_BAKERY,https://share.google/3pqomuw9hg3Pqx7rc,,GROCER_BAKERY,VERIFIED_CANDIDATE,True,True
+99,427766,Pret A Manger,"24 WIGMORE STREET, LONDON",W1U 2RJ,Westminster,BAKERY_CAFE,https://share.google/YSyYSUm1g9EieQiVg,,BAKERY_CAFE,LOCATION_VERIFICATION,True,True
+100,1572098,Daily Fresh Naan Ltd,"To Go 176 Upper Tooting Road, London, Wandsworth",SW17 7ER,Wandsworth,CORE_BAKERY,,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+101,413163,Wenzels The Bakers,"LOWER BOOKING HALL BAKER STREET STATION MARYLEBONE ROAD, LONDON",NW1 5LD,Westminster,CORE_BAKERY,,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+102,1106440,Gail's Bakery,"102 - 104 Shepherd's Bush Road, London",W6 7PD,Hammersmith and Fulham,CORE_BAKERY,,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+103,1721250,Cakes & Bakes,"417 Barking Road, East Ham, London",E6 2JX,Newham,NON_BAKERY,https://share.google/vLIzWCAlskdejIXUe,This is a cake-only boutique,CORE_BAKERY,LOCATION_VERIFICATION,False,False
+104,628482,Fortnum & Mason,"Unit 1a Ticket Office St Pancras International Station, Pancras Road",NW1 2QL,Camden,GROCER_BAKERY,https://share.google/Tgbu68K2OmSM1zYfJ,,GROCER_BAKERY,LOCATION_VERIFICATION,True,True
+105,1599461,Sainsbury's,"Sainsbury Local, 53 Loampit Vale, London",SE13 7DJ,Lewisham,NON_BAKERY,https://share.google/p10V2lMFhAu3dIVYA,,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+106,1293020,Chocolatine Bakery,"131 Wood Street, Walthamstow, London",E17 3LX,Waltham Forest,CORE_BAKERY,https://share.google/uYuPyfkPkF2lAitjY,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+107,1200790,Bread Ahead Bakery and School,"24-28 Olympic Way, Wembley",HA9 0GU,Brent,CORE_BAKERY,https://share.google/tBpbT1Okjl2gc5Th6,,BAKERY_CAFE,VERIFIED_CANDIDATE,False,True
+108,1032230,Morrisons Daily,"103-105 Calley Down Crescent, Croydon",CR0 0EQ,Croydon,UNCLEAR,https://share.google/knwHrpKfpOd8O6X8c,There is not enough evidence to prove that this convenience store has a instore bakery,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+109,1655254,Soul And Grain,"Room C1 24, City Aviation House, Hartmann Road, Silvertown",E16 2PX,Newham,BAKERY_CAFE,https://share.google/ytSaLSTHxiNrhs0Xo,,BAKERY_CAFE,LOCATION_VERIFICATION,True,True
+110,490603,Sainsbury's,"31 Essex Place, Chiswick",W4 5UT,Hounslow,GROCER_BAKERY,https://share.google/utlXX7PX1X7dfkK1w,,GROCER_BAKERY,LOCATION_VERIFICATION,True,True
+111,984599,Szampion Polskie Delikatesy,"Diana Martin Court, 678-682 High Road, Tottenham, London",N17 0AE,Haringey,GROCER_BAKERY,https://share.google/GJBa3W4DMDAefMVMc,,GROCER_BAKERY,SUPERMARKET_SUPPLEMENT,True,True
+112,1756247,404 Bakery,"234 King Street, London",W6 0RF,Hammersmith and Fulham,CORE_BAKERY,https://share.google/5pWOd3oZYKXqz211G,,BAKERY_CAFE,VERIFIED_CANDIDATE,False,True
+113,1610790,artFix Kidbrooke,"Concierge Office 1 Cranfield Walk, Kidbrooke, Greenwich",SE3 9EX,Greenwich,NON_BAKERY,https://share.google/znGJzKnNqLQgR22M3,Inactive,BAKERY_CAFE,VERIFIED_CANDIDATE,False,False
+114,1090642,Shell uk ltd (grocery),"Crystal Palace Service Station, 4, Crystal Palace Parade, London",SE19 1UN,Southwark,NON_BAKERY,https://share.google/NgBNbcZPSLZPCcHrm,,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+115,357415,The Times,"143 Hastings Road, Bromley",BR2 8NQ,Bromley,NON_BAKERY,https://share.google/C0yoHPHAHlAuuWJNK,,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+116,1683879,Pret A Manger,"93A George Street, Croydon",CR0 1LD,Croydon,BAKERY_CAFE,,,BAKERY_CAFE,LOCATION_VERIFICATION,True,True
+117,1801339,Beans & Beyond,"25 Old Nichol Street, London",E2 7HR,Tower Hamlets,NON_BAKERY,https://share.google/ILDQpUcqKwRpyZObT,This is mainly a breakfast and brunch spot with little evidence of bakery provision,BAKERY_CAFE,LOCATION_VERIFICATION,False,False
+118,609415,Portland 24/7,"33 Kensington High Street, LONDON",W8 5EA,Kensington and Chelsea,NON_BAKERY,https://share.google/GpbLF9qmJbmKvrPg3,This is a convenience store attached to a petrol station,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+119,1012458,Pret A Manger,"Pret A Manger, 21 Exmouth Market, London, EC1R 4QD",EC1R 4QD,Islington,BAKERY_CAFE,https://share.google/ycLtDTCOuhTvME8iv,,BAKERY_CAFE,LOCATION_VERIFICATION,True,True
+120,1386157,Carmella Patisserie,"132 Ewell Road, Surbiton",KT6 6HE,Kingston-Upon-Thames,CORE_BAKERY,https://share.google/v6vywn0Tvz7sybRrR,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+121,756845,Waitrose,Temple Fortune Parade  Finchley Road London,NW11 0QS,Barnet,GROCER_BAKERY,,,GROCER_BAKERY,SUPERMARKET_SUPPLEMENT,True,True
+122,329563,J Ayre Bakers,"275 Main Road, Sidcup, Kent",DA14 6QL,Bexley,CORE_BAKERY,https://share.google/pq02tndhOWRQrh548,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+123,483957,Sainsbury's,"Sainsburys, 133 Clapham High Street, London",SW4 7SL,Lambeth,GROCER_BAKERY,https://share.google/MiL67NFhg1ViupuOL,,GROCER_BAKERY,LOCATION_VERIFICATION,True,True
+124,1805633,Yayhouse,"330 Kingston Road, Raynes Park, Merton",SW20 8LR,Merton,BAKERY_CAFE,https://share.google/5921Ma7QWVUpn4yIq,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+125,552282,Dhall Puri Factory,"595 High Road Leyton, Leyton, London",E10 6PY,Waltham Forest,BAKERY_CAFE,https://share.google/ry1vcBUmkZny0D4UG,,CORE_BAKERY,VERIFIED_CANDIDATE,False,True
+126,1574763,Greggs,"8 King Street, Twickenham, Richmond Upon Thames",TW1 3SN,Richmond-Upon-Thames,CORE_BAKERY,https://share.google/VOtc5UzJIGa4P2Y9C,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+127,533687,Bagel & Shake,"397C High Road, Wembley",HA9 6AA,Brent,BAKERY_CAFE,https://share.google/TXJv8G6F3wnUOs80S,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+128,1152318,Sainsbury's,"13 Pegler Square, Kidbrooke, Greenwich",SE3 9FW,Greenwich,UNCLEAR,https://share.google/pIcUpOwwexSETGYuS,This is a sainsbury's local and unclear whether a instore bakery exists,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+129,1800609,Magazin Romanesc,"588 - 592 Greenford Road, Greenford",UB6 8QU,Ealing,GROCER_BAKERY,https://share.google/RNF7JmdbZLEwMId8K,,GROCER_BAKERY,LOCATION_VERIFICATION,True,True
+130,444252,Sainsbury's,"55 Roden Street, Ilford",IG1 2AA,Redbridge,GROCER_BAKERY,https://share.google/c5PhX9JfkAMf7A2qE,,GROCER_BAKERY,LOCATION_VERIFICATION,True,True
+131,1572407,Asda Stores Limited,"Asda Superstore 204 Lavender Hill, London, Wandsworth",SW11 1JG,Wandsworth,GROCER_BAKERY,https://share.google/y3X2BkQaioHoToWTV,,GROCER_BAKERY,LOCATION_VERIFICATION,True,True
+132,1207732,Costa Limited,"67 Long Lane, London",EC1A 9EJ,City of London Corporation,NON_BAKERY,https://share.google/4alW4JJ1CG7iFrZvl,Inactive,BAKERY_CAFE,LOCATION_VERIFICATION,False,False
+133,1900088,Chocoberry Ealing,"27 Broadway, West Ealing",W13 9DA,Ealing,BAKERY_CAFE,https://share.google/6x3Aa81O5UeSfdK5M,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
+134,695146,Paul Rhodes Bakery,"37 King William Walk, Greenwich",SE10 9HU,Greenwich,CORE_BAKERY,https://share.google/7NsYHz3yoAtyR8WiG,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+135,1210199,Adom Trading Ltd T/A  Amazing Grace,"592 Longbridge Road, Dagenham",RM8 2AR,Barking and Dagenham,NON_BAKERY,https://share.google/zpWXAjwL1ycywe9Gu,No evidence of baked goods at this location,GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+136,1317076,Wild Grains at Yonder,"C And S Works Unit 4 Hookers Road, Walthamstow, London",E17 6DP,Waltham Forest,CORE_BAKERY,https://share.google/g0LkMRVFY1qh5w5Pv,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+137,364525,Tesco,"1 Surrey Quays Shopping Centre, Redriff Road, London",SE16 7LL,Southwark,GROCER_BAKERY,https://share.google/gkFmKU2ejt1nXT0T1,,GROCER_BAKERY,SUPERMARKET_SUPPLEMENT,True,True
+138,416516,Sweet Boulangerie & Patisserie,"Sweet Boulangerie & Patisserie, Ground Floor, 64 Exmouth Market, London",EC1R 4QE,Islington,BAKERY_CAFE,https://share.google/Z62RrT2DEuNJIgcrD,,CORE_BAKERY,VERIFIED_CANDIDATE,False,True
+139,481557,Sainsbury's,"Sainsbury's, 242 Hackney Road, London",E2 7SJ,Tower Hamlets,NON_BAKERY,https://share.google/CdkxBMSzNoeBRQpnL,,GROCER_BAKERY,LOCATION_VERIFICATION,False,False
+140,1057262,Wenzels,"21 Station Parade, Whitchurch Lane",HA8 6RW,Harrow,CORE_BAKERY,https://share.google/Zhw9mSHyVnXcUqEp0,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+141,1777521,Shell Yiewsley,"Service Station, 209 High Street, Yiewsley",UB7 7QP,Hillingdon,UNCLEAR,https://share.google/cyRy8JmVXch5wSns3,"Petrol station, it's unclear whether there's a bakery inside",GROCER_BAKERY,VERIFIED_CANDIDATE,False,False
+142,1501717,Toad bakery,"44, Peckham Road, London",SE5 8PX,Southwark,CORE_BAKERY,https://share.google/NxWllQ9SRHUmpNCic,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+143,1222833,Boulangerie Bon Matin LTD,"9 Flask Walk, London",NW3 1HJ,Camden,CORE_BAKERY,https://share.google/ze1BycZdNEmXfYItA,,CORE_BAKERY,VERIFIED_CANDIDATE,True,True
+144,1386351,Sucklings Bakers,"110 Villiers Avenue, Surbiton",KT5 8BH,Kingston-Upon-Thames,CORE_BAKERY,https://share.google/xgDJciqDfkZzXQOmh,,BAKERY_CAFE,VERIFIED_CANDIDATE,False,True
+145,1807671,Bake & Brew Ltd,,E18 ,Redbridge,CORE_BAKERY,https://share.google/9rXq18H0e4Dn8ZSi9,,BAKERY_CAFE,VERIFIED_CANDIDATE,False,True
+146,1663556,Budgens,"10 - 12 Chilham Way, Hayes, Bromley",BR2 7PR,Bromley,GROCER_BAKERY,https://share.google/BLOKk8AotPTOC8rIF,There is sufficient evidence of baked goods having their section,GROCER_BAKERY,LOCATION_VERIFICATION,True,True
+147,624941,Pret A Manger,"1 Commercial Street, London",E1 6BF,Tower Hamlets,BAKERY_CAFE,https://share.google/mC723D9LXzIKyil6D,,BAKERY_CAFE,LOCATION_VERIFICATION,True,True
+148,1575386,The Bread Lady Ltd,"Unit 14.1 Platts Eyot Lower Sunbury Road, Hampton, Richmond Upon Thames",TW12 2HF,Richmond-Upon-Thames,UNCLEAR,https://www.facebook.com/Thebreadladyltd/?locale=en_GB,No permanent address ,CORE_BAKERY,VERIFIED_CANDIDATE,False,False
+149,357985,Greggs,"139A High Street, Penge, London",SE20 7DS,Bromley,CORE_BAKERY,,,CORE_BAKERY,LOCATION_VERIFICATION,True,True
+150,1366705,Dan And Decarlo,20 High Road London,N2 9PJ,Barnet,BAKERY_CAFE,https://share.google/8BUHgahw26BhuR8mG,,BAKERY_CAFE,VERIFIED_CANDIDATE,True,True
