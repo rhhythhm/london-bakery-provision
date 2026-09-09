@@ -9,7 +9,7 @@ Relative under-provision is interpreted as model-based shortfall within the stud
 ## Repository structure
 
 ```text
-...
+.
 ├── notebooks/              Jupyter notebooks containing the project workflow
 │
 ├── data/                   Raw, intermediate and processed project datasets
