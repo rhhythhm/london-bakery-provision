@@ -50,11 +50,11 @@ Relative under-provision is interpreted as model-based shortfall within the stud
 | `09_manual_review.ipynb`                   | Applies diagnostic rules to identify establishments for targeted manual review.                                  |
 | `09b_multistore_establishment_check.ipynb` | Performs location-specific verification for business names represented by multiple FHRS establishments.          |
 | `10_bakery_review_final_dataset.ipynb`     | Consolidates automated and manual decisions to create the final bakery dataset and performs validation.          |
-| `11_london_msoa_spatial_process.ipynb`     | Prepares the 2021 Greater London MSOA boundary dataset.                                                          |
-| `12_msoa_to_bakeries_lookup.ipynb`         | Assigns final bakery establishments to MSOAs, creating bakery counts under three definitions.                    |
+| `11_london_msoa_spatial_process.ipynb`     | Combines 2021 Greater London MSOA boundaries and calculates their areas.                                         |
+| `12_msoa_to_bakeries_lookup.ipynb`         | Assigns final bakery establishments to MSOAs and counts overall establishment counts.                            |
 | `13_ons_msoa_population.ipynb`             | Prepares ONS Mid-2024 MSOA population estimates for Greater London MSOAs.                                        |
 | `14_naptan_transport_nodes.ipynb`          | Assigns and aggregates active NaPTAN transport stop points within respective London MSOAs.                       |
-| `15_msoa_modelling_dataset.ipynb`          | Combines bakery counts and MSOA-level characteristics into final analysis and modelling dataset.                 |
+| `15_msoa_modelling_dataset.ipynb`          | Constructs bakery counts under three defintions and combines with MSOA-level characteristics.                    |
 | `16_msoa_bakery_analysis.ipynb`            | Performs exploratory and descriptive analysis of bakery provision.                                               |
 | `17_msoa_bakery_count_model.ipynb`         | Fits and compares performance of Poisson and Negative Binomial bakery-count model.                               |
 | `17b_msoa_bakery_count_model_income.ipynb` | Extends count models with MSOA-level average household incomes.                                                  |
@@ -104,17 +104,19 @@ The notebooks are numbered in the approximate order of the project workflow and 
 
 The repository includes the processed datasets and saved outputs required to inspect the completed analysis. Large raw third-party datasets are not included in version control, so a complete rerun from Notebook 01 requires the original source data and external API access for some stages.
 
-### Recommended inspection
+## Recommended inspection
 
-The saved outputs within the notebooks, `data/` and `outputs/` allow the completed project to be inspected without rerunning the data-acquisition or automated-verification stages.
+The saved notebook outputs can be inspected without rerunning the data collection, automated verification or manual-review stages.
 
-The later analysis can be reproduced from the processed files included in the repository. Notebooks 15, 16 and 17 can be rerun directly from the included processed datasets. Notebook 17b additionally requires the original ONS household-income workbook.
+If the main analysis was to be reproduced, the saved files can be used to run Notebook 16 for descriptive results, Notebook 18 for under-provision rankings and maps, and Notebook 19 for evaluation. These notebooks require the processed datasets and saved model outputs described in opening cells.
 
-The saved output from Notebook 17b is included in the repository, allowing Notebooks 18 and 19 to be rerun without repeating the income-model stage.
+Notebooks 15 and 17 can rebuild the modelling dataset and baseline count models from the processed inputs. Notebook 17b, however, requires the original ONS household-income workbook to be downloaded from https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/smallareaincomeestimatesformiddlelayersuperoutputareasenglandandwales. Though the saved outputs allow Notebooks 18 and 19 to run without repeating that stage.
 
-### Full rebuild
+Run notebooks with notebooks/ as the working directory and select the project virtual environment as the notebook kernel.
 
-A complete rebuild follows the numbered notebook workflow from Notebook 01 onwards. This would require raw external datasets described and API credentials where indicated. Results obtained from external APIs or Google Search at a later date may differ from the dated project results.
+## Full rebuild
+
+For a full rebuild, the numbered workflow can be followed but it requires the original raw inputs, API access and completed review decisions. Note that notebooks 04 and 05 document preliminary classifier development that was not used in the final analysis; Notebook 07 contains the final classifier. Manual-review stages require human input, so the full pipeline cannot be run fully unattended. New downloads and repeated AI verification may differ from the original study results.
 
 ## Raw data required for a complete rebuild
 
@@ -122,7 +124,7 @@ Large raw files were excluded from the repository. The following files are requi
 
 | Notebook | Required raw input |
 |---|---|
-| 10 | `data/business/raw/london_fhrs_raw_2026-07-23.csv` |
+| 08, 08b, 09b, 10 | `data/business/raw/london_fhrs_raw_2026-07-23.csv` |
 | 11 | 2021 MSOA shapefiles in `data/spatial/raw/msoa2021/` |
 | 12 | `data/spatial/raw/msoa_lookup_data.csv` |
 | 13 | `data/spatial/raw/ons_msoa_population_data.xlsx` |
@@ -151,6 +153,8 @@ The bakery-identification pipeline contains manual-review stages found in Notebo
 Diagnostic rules in Notebook 09 were used to select potentially inconsistent classifications for targeted review. Manual-reviews can be found in `data/business/interim/ai_verification_v2/manual_review` and `data/business/interim/ai_verification_v3/manual_review_v3`
 
 Notebook 10 combines these review decisions with automated results and contains the final class-stratified validation of bakery establishments.
+
+Notebook 09 also reads an early-testing verification workbook found as `data/business/interim/ai_verification_v2/manual_review/bakery_manual_review.xlsx`, which is required when rerunning that stage.
 
 ## Bakery definitions
 
