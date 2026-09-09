@@ -1,4 +1,4 @@
-# Identifying Relative Under-Provision of Bakeries in London
+# Identifying Relative Bakery Under-Provision in Greater London
 
 MSc Data Science project analysing the spatial distribution and relative provision of bakery establishments across Greater London Middle Layer Super Output Areas (MSOAs).
 
