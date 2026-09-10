@@ -1,6 +1,7 @@
 # Raw external datasets
 data/business/raw/
 data/spatial/raw/
+!data/spatial/raw/ons_msoa_income_fye2023.xlsx
 
 # Old/development verification files
 data/business/interim/ai_verification/
