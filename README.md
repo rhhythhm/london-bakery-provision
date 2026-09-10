@@ -110,7 +110,7 @@ The saved notebook outputs can be inspected without rerunning the data collectio
 
 If the main analysis was to be reproduced, the saved files can be used to run Notebook 16 for descriptive results, Notebook 18 for under-provision rankings and maps, and Notebook 19 for evaluation. These notebooks require the processed datasets and saved model outputs described in opening cells.
 
-Notebooks 15 and 17 can rebuild the modelling dataset and baseline count models from the processed inputs. Notebook 17b, however, requires the original ONS household-income workbook to be downloaded from https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/smallareaincomeestimatesformiddlelayersuperoutputareasenglandandwales. Though the saved outputs allow Notebooks 18 and 19 to run without repeating that stage.
+Notebooks 15 and 17 can rebuild the modelling dataset and baseline count models from the processed inputs. The saved outputs allow Notebooks 18 and 19 to run regardless without repeating that stage.
 
 Run notebooks with notebooks/ as the working directory and select the project virtual environment as the notebook kernel.
 
@@ -129,9 +129,8 @@ Large raw files were excluded from the repository. The following files are requi
 | 12 | `data/spatial/raw/msoa_lookup_data.csv` |
 | 13 | `data/spatial/raw/ons_msoa_population_data.xlsx` |
 | 14 | `data/spatial/raw/national_stop_data.csv` |
-| 17b | `data/spatial/raw/ons_msoa_income_fye2023.xlsx` |
 
-Notebooks 01, 03 and 06 acquire their source data programmatically, but dataset sources and versions are documented in the project report.
+Notebooks 01, 03 and 06 acquire their source data programmatically, but dataset sources and versions are documented in the project report. Notebook 17b requires the original ONS household-income workbook, however this has been retained in the repository as it is small.
 
 ## API-dependent stages
 
